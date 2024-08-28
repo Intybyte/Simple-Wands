@@ -1,0 +1,4 @@
+name: SimpleWands
+version: '1.0-SNAPSHOT'
+main: me.vaan.simpleWands.SimpleWands
+api-version: '1.21'
